@@ -15,6 +15,7 @@ console.log(donaldDuck.name);
 donaldDuck.canFly = false;
 
 //Step 4 add a new method
+// You are almost there this is a function, you need a METHOD.
 const dack = {
     say() {
         return "DACK DACK! Is this what a duck sounds like?";
